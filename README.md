@@ -1,6 +1,12 @@
 # WebGIS-Warmindo6A
 ## Tugas Otomasi Sistem Informasi Geografis Kelas A - Kelompok 6
-WebGIS persebaran warmindo di kelurahan Bulusan dan Tembalang dalam membantu memilih warmindo yang sesuai dengan preferensi berdasarkan informasi spasial dan data fasilitas warmindo
+WebGIS persebaran warmindo di kelurahan Bulusan dan Tembalang dalam membantu memilih warmindo yang sesuai dengan preferensi berdasarkan informasi spasial dan data fasilitas warmindo.
+
+Link Video : https://bit.ly/Video-OSIG-Kelompok6A
+
+Link source code : https://bit.ly/sourcecode-kelompok6A
+
+Link WebGIS : https://bit.ly/WebGIS-Warmindo6A
 
 Kelompok 6A
 1. Sekar Arum Kusuma Dewi 21110120120021
